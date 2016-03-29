@@ -1,0 +1,41 @@
+*{
+
+  margin: 0px;
+
+}
+
+
+header {
+	background-color: #FF7C00;
+	padding: 25px;
+	box-shadow:  0px 8px 8px #000000;
+}
+
+header img{
+	height: 80px;
+	float: left;
+	padding: 15px;
+}
+
+h1 {
+	color: #FFFFFF ;
+	font-font-size: 48px;
+	font-family: sans-serif;
+	padding: 20px;
+	text-shadow: 2px 2px 1px #7f3100;
+}
+section{
+	padding: 10px;
+	margin: 20px auto;
+	background-image: url( ../img/HERMOS.JPG);
+	background-repeat: no-repeat;
+	min-height: 500px;
+    background-size: cover;
+}
+
+
+section article{
+	background-color:  rgba(255,255,255,99);
+	padding: 50px;
+	min-height: 600px;
+}
